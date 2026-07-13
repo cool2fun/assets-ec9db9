@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "game": "obby-on-a-bike",
+  "generatedAt": "2026-07-13T06:36:03.077Z",
+  "chunkSize": 19922944,
+  "assets": {
+    "Build/a2bf6be9cb7a28176f5c91ef9abfe6ea.data.br": {
+      "kind": "data",
+      "mime": "application/octet-stream",
+      "size": 26305861,
+      "sha256": "c7c6bdb7899dd5833861d529f28cbd2047736259d8dadfdcd0ae8b8934861d71",
+      "sourceCompression": "raw",
+      "chunks": [
+        {
+          "path": "_unity_chunks/data-c7c6bdb7899dd583/part-000.bin",
+          "size": 19922944,
+          "sha256": "313ba3f2ee73b80fa1acddc677fe04c41c7a30bee8f7c14b28f172fd50436347"
+        },
+        {
+          "path": "_unity_chunks/data-c7c6bdb7899dd583/part-001.bin",
+          "size": 6382917,
+          "sha256": "93fec94cd79e5218336fcf318d2ada0e2ff9733799adc4435b5542bf013a6ca5"
+        }
+      ]
+    },
+    "Build/e13c74492b67f55a2735c17c42ec8aea.wasm.br": {
+      "kind": "wasm",
+      "mime": "application/wasm",
+      "size": 46570481,
+      "sha256": "f316c3acd31cd1867ff9aa96813fd670b9dc51e91aeb6dc441af982ed1aa4bc3",
+      "sourceCompression": "raw",
+      "chunks": [
+        {
+          "path": "_unity_chunks/wasm-f316c3acd31cd186/part-000.bin",
+          "size": 19922944,
+          "sha256": "a1b8b440a6b932a68d109300349ca69384298ed32cad89fcd1cee26331d4e5d3"
+        },
+        {
+          "path": "_unity_chunks/wasm-f316c3acd31cd186/part-001.bin",
+          "size": 19922944,
+          "sha256": "7ae420a64ec52386e7ead0c4e7d14bce39b50e2c7e10399d83976b50cbf76cfc"
+        },
+        {
+          "path": "_unity_chunks/wasm-f316c3acd31cd186/part-002.bin",
+          "size": 6724593,
+          "sha256": "e1acb7f207686b740d820b6d1a43aaaac674cd830e239654366f8d6e0aaa4367"
+        }
+      ]
+    },
+    "Build/f4ed3771996ffe014fb8a0d83538969b.framework.js.br": {
+      "kind": "framework",
+      "mime": "application/javascript; charset=utf-8",
+      "size": 516566,
+      "sha256": "84f8f2942a46d1949aa28fb6eb2eb8b5b99f571b7439f8c2786a95fbe1b12631",
+      "sourceCompression": "raw",
+      "chunks": [
+        {
+          "path": "_unity_chunks/framework-84f8f2942a46d194/part-000.bin",
+          "size": 516566,
+          "sha256": "84f8f2942a46d1949aa28fb6eb2eb8b5b99f571b7439f8c2786a95fbe1b12631"
+        }
+      ]
+    }
+  }
+}
